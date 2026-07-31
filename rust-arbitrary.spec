@@ -10,8 +10,8 @@
 %global crate arbitrary
 
 Name:           rust-%{crate}
-Version:        0.2.0
-Release:        2%{?dist}
+Version:        1.4.2
+Release:        1%{?dist}
 Summary:        Arbitrary trait for generating structured data from unstructured data
 
 # Upstream license specification: MIT/Apache-2.0
